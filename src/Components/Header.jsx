@@ -68,8 +68,8 @@ const Header = () => {
               </ul>
             </div>
             <Link to={`/`} className="text-xl font-bold">
-              <span className="sm:inline hidden">Firebase Figter</span>
-              <span className="sm:hidden inline">Figter</span>
+              <span className="sm:inline hidden">Firebase Fighter</span>
+              <span className="sm:hidden inline">Fighter</span>
             </Link>
           </div>
           <div className="navbar-center hidden lg:flex">

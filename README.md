@@ -179,3 +179,13 @@ const firebaseConfig = {
 };
 ```
 
+### 🧭 Keyboard Shortcuts
+
+- **`Ctrl + Alt + ↑`** — Add cursor above to several lines *(at the start of lines)*  
+- **`Ctrl + →`** — Move cursor right by word *(to go after each `=` sign)*  
+- **`Shift + End`** *(Num Lock off)* — Select to end of line *(to copy only the values)*  
+- **`Shift + End`** *(Num Lock on)* — Jump to end of line  
+- **`Shift + Home`** *(Num Lock on)* — Jump to start of line
+
+
+
