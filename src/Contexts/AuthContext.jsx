@@ -1,0 +1,5 @@
+import { createContext } from "react";
+
+export  const AuthContext = createContext(null);
+
+// null -- because {} is truthy 
