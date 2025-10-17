@@ -1,5 +1,10 @@
 # Firebase Fighter
 
+## 🚀 Live Demo
+🔗 [View Deployed App](https://firebase-fighter-concentual-9.netlify.app/)
+
+## 🧰 Features
+
 ### 1. MyLink
 
 ### 2. MyContainer
