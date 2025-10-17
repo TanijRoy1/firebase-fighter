@@ -22,7 +22,9 @@
 
 ### 11. create .env file to hide firebase.init.js content
 
-##### 12. set displayName (not implemented yet)
+### 12. deploy -- go to authentication>settings>authorised domains and Add domain
+
+##### 13. set displayName (not implemented yet)
 
 ---
 
